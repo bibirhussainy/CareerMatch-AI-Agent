@@ -142,7 +142,9 @@ This project was built as an AI engineering portfolio project to demonstrate:
 
 ## 🎥 Demo Video
 
-A short project demonstration will be added here.
+▶️ [Watch the CareerMatch AI Agent demo](./CareerMatch-AI-Agent-Demo.mov)
+
+> This 3-minute demo shows the complete workflow: uploading a CV, adding a job description, running the AI analysis, and reviewing the generated results.
 
 ## 👩‍💻 Author
 
