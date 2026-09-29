@@ -138,7 +138,7 @@ This project was built as an AI engineering portfolio project to demonstrate:
 
 ## 🌐 Live Demo
 
-A deployed Streamlit application link will be added here.
+🚀 [Try CareerMatch AI Agent](https://careermatch-ai-agent-aa4r3tbdrdygbz6sabyf4m.streamlit.app/)
 
 ## 🎥 Demo Video
 
